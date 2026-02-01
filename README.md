@@ -1,4 +1,4 @@
-# 📊 Predição de Inadimplência com Machine Learning
+# Deploy de Modelo de Machine Learning para Predição de Inadimplência – Case Koin
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)
